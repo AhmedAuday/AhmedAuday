@@ -1,4 +1,4 @@
-# Hi, I'm [Ahmed Alani] 
+# Hi, I'm Ahmed Alani
 
 I have been involved in various fields of knowledge, which has been an amazing journey!
 
@@ -30,4 +30,4 @@ I have been involved in various fields of knowledge, which has been an amazing j
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[AhmedAuday]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAuday&show_icons=true&theme=radical)
